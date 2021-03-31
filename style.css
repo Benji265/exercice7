@@ -1,0 +1,86 @@
+div.a{
+    display: flex;
+    background-color: white;
+}
+
+div.a > div.b{
+    background-color: green;
+    width: 80%;
+    height: 20px;
+    border: 1px solid green;
+    display: inline;
+}
+
+
+div.a > div.c{
+    background-color: blue;
+    border: 1px solid blue;
+    height: 20px;
+    width: 20%;
+    display: inline;
+}
+
+div.a > div.d{
+    background-color: red;
+    border: 1px solid red;
+    height: 45px;
+    width: 40%;
+    display: inline;
+}
+
+div.a > div.e{
+    background-color: orange;
+    border: 1px solid orange;
+    height: 45px;
+    width: 30%;
+    display: inline;
+}
+
+div.a > div.f{
+    background-color: gray;
+    border: 1px solid gray;
+    height: 45px;
+    width: 30%;
+    display: inline;
+}
+
+div.a > div.g{
+    background-color: red;
+    border: 1px solid red;
+    height: 45px;
+    width: 40%;
+    display: inline;
+}
+
+div.a > div.h{
+    background-color: yellow;
+    border: 1px solid yellow;
+    height: 45px;
+    width: 20%;
+    display: inline;
+
+}
+
+div.a > div.i{
+    background-color: cyan;
+    border: 1px solid cyan;
+    height: 45px;
+    width: 20%;
+    display: inline;
+}
+
+div.a > div.j{
+    background-color: olivedrab;
+    border: 1px solid olivedrab;
+    height: 45px;
+    width: 20%;
+    display: inline;
+}
+
+div.a > div.k{
+    background-color: black;
+    border: 1px solid black;
+    height: 100px;
+    width: 100%;
+    display: inline;
+}
